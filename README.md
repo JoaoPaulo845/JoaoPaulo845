@@ -27,7 +27,7 @@ I am a Final Year Computer Engineering Student at College of Engineering Chengan
   
 .    
    
-![Prify Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amchuz&hide=["stars"]&show_icons=true)
+![Prify Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoPaulo845&hide=["stars"]&show_icons=true)
 
 -------
 
