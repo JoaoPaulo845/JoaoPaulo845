@@ -8,7 +8,7 @@ I am a Software Engineering Student at FIAP.
 - 🌱 I’m currently learning Data Science | Full Stack Web development
 - 📫 How to reach me:
 
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/JoaoPaulo845) | <img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">(https://www.linkedin.com/in/jo%C3%A3o-paulo-zamperlini-275405247/]
+| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/JoaoPaulo845) | <img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">(https://www.linkedin.com/in/jo%C3%A3o-paulo-zamperlini-275405247/)
 |---|---|---|---|---|---|
 
 ----
