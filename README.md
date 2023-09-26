@@ -1,5 +1,6 @@
 ### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 Português:
+
 Sou um estudante de Engenharia de Software na FIAP (Faculdade de Informática Paulista) e Moro em São Paulo.
 
 - 🔭 Eu estou procurando por um estágio.
@@ -7,6 +8,7 @@ Sou um estudante de Engenharia de Software na FIAP (Faculdade de Informática Pa
 - 📫 Como me encontrar:
 - 
 English:
+
 I am a Software Engineering Student at FIAP (Faculdade de Informática Paulista) and live in São Paulo, Brazil.
 
 - 🔭 I’m searching for and Intership.
