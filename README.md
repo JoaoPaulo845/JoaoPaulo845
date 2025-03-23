@@ -3,7 +3,7 @@ Português:
 
 Sou um estudante de Engenharia de Software na FIAP (Faculdade de Informática Paulista) e Moro em São Paulo.
 
-- 🔭 Eu estou procurando por um estágio.
+- 🔭 Sou estágio no Itaú Unibanco
 - 🌱 Atualmente estou aprendendo Python, SQL e Análise de Dados.  
 - 🙂 Acesse meu Portfólio para ver meus projetos!
 - 📫 Como me encontrar:
@@ -12,7 +12,7 @@ English:
 
 I am a Software Engineering Student at FIAP (Faculdade de Informática Paulista) and live in São Paulo, Brazil.
 
-- 🔭 I’m searching for and Intership.
+- 🔭 I’m a intern in Itaú Unibanco.
 - 🌱 I’m currently learning Python, SQL and Data Analysis.  
 - 🙂 Access my Portfolio to see my projects!
 - 📫 How to reach me:
