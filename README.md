@@ -3,7 +3,7 @@ Português:
 
 Sou um estudante de Engenharia de Software na FIAP (Faculdade de Informática Paulista) e Moro em São Paulo.
 
-- 🔭 Sou estágio no Itaú Unibanco
+- 🔭 Sou estágiário no Itaú Unibanco
 - 🌱 Atualmente estou aprendendo Python, SQL e Análise de Dados.  
 - 🙂 Acesse meu Portfólio para ver meus projetos!
 - 📫 Como me encontrar:
