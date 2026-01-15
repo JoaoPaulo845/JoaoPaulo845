@@ -2,7 +2,7 @@
 
 ## Português 🇧🇷
 
-Sou estudante de Engenharia de Software na FIAP e moro em São Paulo. Quero construir minha carreira em **Ciência de Dados**!
+Sou estudante de Engenharia de Software na FIAP e moro em São Paulo. Estou constuindo minha carreira em **Ciência de Dados**!
 
 - 🔭 Estágio em Dados no **Itaú Unibanco**
 - 🧠 Conhecimentos: **Python**, **SQL**, **AWS**, **Power Automate** e **Power BI**
